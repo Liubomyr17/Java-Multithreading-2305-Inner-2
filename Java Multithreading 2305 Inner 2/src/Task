@@ -1,0 +1,14 @@
+2305 Inner 2
+
+In the SuperUser class, the getDescription method must take into account the country and city, i.e. return a result
+similar to the following:
+My name is George. I'm from the USA, Seattle.
+Use the capabilities of the inner class.
+
+Requirements:
+1. The SuperUser class must be private.
+2. The SuperUser class must contain the getDescription method.
+3. The getDescription method in the SuperUser class must be public.
+4. The getDescription method in the SuperUser class should return a string that takes into account the name, country
+and city of the user formatted according to the condition of the task.
+5. The getTrickyUser method should return an object of type SuperUser.
